@@ -1,4 +1,12 @@
 Banking Data Analytics Project
+
+## 📊 Power BI Dashboard
+
+Due to file size limitations on GitHub, the Power BI file is hosted externally.
+
+🔗 **Download the dashboard here:**
+https://1drv.ms/f/c/99656b73a6647135/IgBpuESpjsH6Q79DIO_iecp1Ae33stUX1jkHwxYn99MtP1A?e=WLLfUl
+
 Overview
 
 This project focuses on analyzing banking data to uncover customer behavior, transaction trends, and potential risk patterns.
